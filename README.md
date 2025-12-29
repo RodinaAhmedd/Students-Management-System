@@ -1,5 +1,6 @@
 # Students-Management-System
 📚 Student Grades Management Script
+
 A simple JavaScript program that manages student grades, calculates statistical results, and allows users to search for a specific student's grade.
 This script demonstrates the use of arrays, loops, conditions, and user input handling in JavaScript.
 
