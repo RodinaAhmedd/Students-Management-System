@@ -44,5 +44,5 @@ This script demonstrates the use of arrays, loops, conditions, and user input ha
 - Adding input validation
 
 👩🏻‍💻 Rodina Ahmed
-Developed as a simple learning project demonstrating basic JavaScript operations.
+
 Developed as a simple learning project demonstrating basic JavaScript operations.
